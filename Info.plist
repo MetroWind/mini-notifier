@@ -1,0 +1,14 @@
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>org.darksair.notifier</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Notifier</string>
+    <key>CFBundleVersion</key>
+    <string>0.1</string>
+	<key>NSPrincipalClass</key>
+	<string>RudeNotificationApp</string>
+</dict>
+</plist>
